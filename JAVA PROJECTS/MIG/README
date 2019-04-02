@@ -1,0 +1,21 @@
+This is my first java project.
+In this project I have tried to include all mig or any other fighter jet related dependencies and classes (Pilot and Co-Pilot)
+
+Here JAVA's basic features like OOP's are used in addition with some advacned features like Java AWT ( for Buttons, Images, Frames,
+PAnel etc.)
+
+The basic Idea was for any jet to fly several steps are taken:
+  - Initially several checks are performed
+  - Then several pilot and co-pilot dependencies are included
+    
+  PILOT
+    - Pilot has basic flight and flight feature
+    - In flight and fight several diffrent functionalities are there like aim, distance, ammunition type etc. These are included
+  
+  CO-PILOT
+    - Co-pilot has it's own functionalities like Communication
+    - Own missiles panel
+    
+All the files uploaded are interlinked to each other and severs diffrent functionality hence all are required to be cloned or 
+downloaded to ensure proper usage. Apart from this the images also have to be downloaded and a proper url must be inserted to
+ensure their functioning as well.
