@@ -1,0 +1,6 @@
+This file conatins the code segment written for the server side in java
+
+While Execucting the code a skeleton object is created on the server side.
+The skeleton object passes the request from the stub object to the remote object. It performs following tasks
+    It calls the desired method on the real object present on the server.
+    It forwards the parameters received from the stub object to the method.
