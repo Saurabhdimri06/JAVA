@@ -1,0 +1,8 @@
+Here in client side the Stub object is created 
+Stub Object
+
+The stub object on the client machine builds an information block and sends this information to the server. The block consists 
+of
+    An identifier of the remote object to be used
+    Method name which is to be invoked
+    Parameters to the remote JVM
