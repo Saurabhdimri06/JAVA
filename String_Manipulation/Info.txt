@@ -1,0 +1,5 @@
+This Folder contains for the codes or statements that are used for string manipulation in java.
+The String manipulation is one of the essential part of the java programming sector and hence is used most commonly.
+
+Whenever a String Object is created, two objects will be created- one in the Heap Area and one in the String constant pool and the 
+String object reference always points to heap area object.
