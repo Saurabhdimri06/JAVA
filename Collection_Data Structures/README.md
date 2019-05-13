@@ -26,3 +26,6 @@ Collection hierarchy in java is
         |                  ARRAY DEQUEUE                      |
         |                                                     |
 STACK TREE SET
+
+
+This is the basic hierarchy of the Collections set
