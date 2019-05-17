@@ -1,0 +1,2 @@
+This is a new functionality of Remote method Invocation created.
+A server side class for adder is created
