@@ -12,3 +12,12 @@ Java is a programming language and computing platform first released by Sun Micr
    In Java everything is a classs. The java coding itself has a main constituent of a class. It is one of the greatest supporter of OOP's Ideology. Java can be easily extended since it is based on the Object model.
    
    ### - Platform Independent
+   Unlike many other programming languages including C and C++, when Java is compiled, it is not compiled into platform specific machine, rather into platform-independent byte code. This byte code is distributed over the web and interpreted by the Virtual Machine (JVM) on whichever platform it is being run on.
+   
+   ### - Simple
+   Java is designed to be easy to learn. If you understand the basic concept of OOP Java, it would be easy to master.
+   
+   ### - Vast Library
+   Java has a very vast library and hosts practially every need for a programmer to code in any environment.
+   
+   
