@@ -20,4 +20,10 @@ Java is a programming language and computing platform first released by Sun Micr
    ### - Vast Library
    Java has a very vast library and hosts practially every need for a programmer to code in any environment.
    
+   ### - Multithreaded
+   Multithreaded is another java feature that enables high performance of the Java. In Java via property of multithreading we can handle multiple tasks at once which will further be running in diffrent threads thus increasing the speed of code execution. 
+   
+   ### - High Performance
+   With the help of JIT compilers (JUST IN TIME) Java enables high performance.
+   
    
