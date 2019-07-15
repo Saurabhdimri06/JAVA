@@ -26,4 +26,17 @@ Java is a programming language and computing platform first released by Sun Micr
    ### - High Performance
    With the help of JIT compilers (JUST IN TIME) Java enables high performance.
    
+## Environments Required
+
+   To run java you need to install ```JRE (Java Runtime Environment)``` or ```JDK (Java Development Kit)``` that can be found on oracle official website.
    
+## Programs Covered
+   
+   - Basics Of java
+   - Arrays 
+   - Loops and Conditional Statements
+   - File Handling
+   - Error Handling
+   - OOP's Concepts
+   - RMI (Remote Method Invocation)
+   - PROJECTS   
