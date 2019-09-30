@@ -1,0 +1,3 @@
+This is a basic card game where the players select get a pair of cards randomly. The players who has the highest of cards will win
+and will be granted a point of 25 while the loser will be not be granted any points. 
+The fame finishes when any one of the players reaches the total of 100.

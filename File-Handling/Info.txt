@@ -1,0 +1,13 @@
+What is File Handling in Java
+
+File handling in Java means that how to read from and write to file in Java. Java provides the basic I/O package for reading 
+and writing streams. java.io package allows to do all Input and Output tasks in Java .
+
+How to perform file handling in Java
+
+Java provides the java.io package for file handling in Java. java.io package contains the inbuilt Java classes and predefined 
+methods using which you can read from and write data to file.
+
+
+This folder contains some basic file handling methods in java
+Like how to search for a file, how to make a new file, how to read a file , how to write in a file etc.
